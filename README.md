@@ -1,1 +1,1 @@
-https://agliullinadi.github.io/burgerquiz/inddex
+https://agliullinadi.github.io/burgerquiz/index
